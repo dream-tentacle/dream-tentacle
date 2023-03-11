@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can go to my [page](https://dream-tentacle.github.io)
+
 <!--
 **dream-tentacle/dream-tentacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/dream-tentacle/count.svg)
