@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-You can go to my [page](https://dream-tentacle.github.io)
+You can go to my [homepage](https://dream-tentacle.github.io)
+
+Currently I'm not doing useful projects, considering that I'm still learning AI and I might commit some codes later.
 
 <!--
 **dream-tentacle/dream-tentacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/dream-tentacle/count.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-tentacle&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
